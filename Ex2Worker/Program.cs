@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using Ex2Worker.Entities;
 using Ex2Worker.Entities.Enums;
 
@@ -16,7 +17,7 @@ namespace Ex2Worker
             Console.WriteLine("Level (Junior/MidLevel/Senior): ");
             WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
             Console.Write("Base salary: ");
-            double baseSalary = double.Parse(Console.ReadLine());
+            double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Department dept = new Department(deptName);
             Worker worker = new Worker(name, level, baseSalary, dept);
@@ -30,7 +31,7 @@ namespace Ex2Worker
                 Console.Write("Date (DD/MM/YYYY): ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
                 Console.Write("Value per hour: ");
-                double valuePerHour = double.Parse(Console.ReadLine());
+                double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.Write("Duration (hours): ");
                 int hours = int.Parse(Console.ReadLine());
 
@@ -47,7 +48,7 @@ namespace Ex2Worker
 
             Console.WriteLine("Name: "+worker.Name);
             Console.WriteLine("Department: "+worker.Department.Name);
-            Console.WriteLine("Income for "+monthAndYear+": "+income);
+            Console.WriteLine("Income for "+monthAndYear+": "+income.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }

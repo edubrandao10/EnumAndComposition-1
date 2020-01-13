@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dusil\\Desktop\\C#2\\Ex2Worker\\Ex2Worker\\Ex2Worker.csproj",
+      "projectUniqueName": "C:\\Users\\dusil\\Desktop\\C#2\\Enumerações e Composições\\Ex2Worker\\Ex2Worker\\Ex2Worker.csproj",
       "projectName": "Ex2Worker",
-      "projectPath": "C:\\Users\\dusil\\Desktop\\C#2\\Ex2Worker\\Ex2Worker\\Ex2Worker.csproj",
+      "projectPath": "C:\\Users\\dusil\\Desktop\\C#2\\Enumerações e Composições\\Ex2Worker\\Ex2Worker\\Ex2Worker.csproj",
       "packagesPath": "C:\\Users\\dusil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dusil\\Desktop\\C#2\\Ex2Worker\\Ex2Worker\\obj\\",
+      "outputPath": "C:\\Users\\dusil\\Desktop\\C#2\\Enumerações e Composições\\Ex2Worker\\Ex2Worker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dusil\\AppData\\Roaming\\NuGet\\NuGet.Config",
