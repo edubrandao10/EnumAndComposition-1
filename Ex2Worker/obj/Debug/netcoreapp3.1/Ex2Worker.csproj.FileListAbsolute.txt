@@ -1,0 +1,11 @@
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.exe
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.deps.json
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.runtimeconfig.json
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.runtimeconfig.dev.json
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.dll
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\bin\Debug\netcoreapp3.1\Ex2Worker.pdb
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\obj\Debug\netcoreapp3.1\Ex2Worker.csprojAssemblyReference.cache
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\obj\Debug\netcoreapp3.1\Ex2Worker.AssemblyInfoInputs.cache
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\obj\Debug\netcoreapp3.1\Ex2Worker.AssemblyInfo.cs
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\obj\Debug\netcoreapp3.1\Ex2Worker.dll
+C:\Users\dusil\Desktop\C#2\Ex2Worker\Ex2Worker\obj\Debug\netcoreapp3.1\Ex2Worker.pdb
